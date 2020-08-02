@@ -1,0 +1,21 @@
+{
+    "name": "abhijitrakas/wp-cli-log-symbols",
+    "description": "Package extend default cli notification and add functionality to show symbols with log.",
+    "type": "wp-cli-package",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        },
+        "files": [ "wpcli-log-symbols.php" ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abhijit Rakas",
+            "email": "abhijitrakas@gmail.com"
+        }
+    ]
+}
