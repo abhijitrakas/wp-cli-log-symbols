@@ -1,10 +1,10 @@
 # wp-cli-log-symbols
 Log messages with Symbols
 
-Info: ℹ️
-Success: ✅
-Warning: ⚠️
-Error: ❌
+Info: ℹ️  
+Success: ✅  
+Warning: ⚠️  
+Error: ❌ 
 
 ## Installation
 
