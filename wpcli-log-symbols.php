@@ -15,7 +15,7 @@ $autoload = dirname( __FILE__ ) . '/vendor/autoload.php';
 if ( file_exists( $autoload ) ) {
 	require_once $autoload;
 }
-die('hi');
+
 // Creating object of Extended logger class.
 $wp_cli_log_symbols = new WP_Cli_Log_Symbols( false );
 
