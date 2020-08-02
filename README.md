@@ -8,7 +8,7 @@ Error: ❌
 
 ## Installation
 
-`wp package install git@github.com:abhijitrakas/wpcli-log-symbols.git`
+`wp package install git@github.com:abhijitrakas/wp-cli-log-symbols.git`
 
 ## Screenshot
 
